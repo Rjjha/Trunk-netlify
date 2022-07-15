@@ -3,7 +3,7 @@ import Team from "./help_components/teams";
 export default function body3() {
     return (
         <>
-            <div className="min-h-screen bg-gray-800 text-center w-full pb-8">
+            <div className="min-h-screen  text-center w-full pb-8">
                 <div >
                     <h1 className="text-white font-bold text-3xl">The Team</h1>
                 </div>

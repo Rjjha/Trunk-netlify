@@ -2,7 +2,7 @@ import React, { components } from "react";
 import Benefits from "./help_components/benefits";
 export default function body4() {
     return (<>
-        <div className="min-h-screen bg-gray-800 text-center w-full pt-20 ">
+        <div className="min-h-screen text-center w-full pt-20 ">
             <div >
                 <h1 className="text-white font-bold text-3xl ">Benefits</h1>
             </div>

@@ -14,7 +14,7 @@ function App() {
       <BodyComponent/>
       <BodyComponent2/>
       <BodyComponent3/>
-      <BodyComponent4/>
+  <BodyComponent4/>
     </>
   )
    
